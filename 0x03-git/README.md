@@ -1,1 +1,1 @@
-do hard things
+ alx pre course do hard things
